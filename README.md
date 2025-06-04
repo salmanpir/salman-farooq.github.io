@@ -1,4 +1,4 @@
-# salman-farooq.github.io
+
 <h1>👋 Hi, I'm Salman Farooq</h1>
 
 <p>I'm currently pursuing a <strong>Bachelor's degree in Software Engineering</strong> from <strong>Islamia College Peshawar</strong>. I'm passionate about technology, especially in the areas of:</p>
@@ -24,6 +24,3 @@
   <li>Research in blockchain scalability and security</li>
   <li>Develop applications that bridge finance and technology</li>
 </ul>
-
-<h2>📫 Let's Connect!</h2>
-<p>Feel free to reach out or collaborate on anything crypto, blockchain, or app dev related!</p>
